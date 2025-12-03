@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "user1",
+    "email": "user1@email.com",
+    "isClient": true,
+    "sent": "2025-04-23 10:00:00"
+  },
+  {
+    "id": 1,
+    "name": "user2",
+    "email": "user2@email.com",
+    "isClient": true,
+    "sent": "2025-04-23 10:00:00"
+  },
+  {
+    "id": 1,
+    "name": "user3",
+    "email": "user3@email.com",
+    "isClient": false,
+    "sent": "2025-10-03 16:00:00"
+  },
+  {
+    "id": 1,
+    "name": "user4",
+    "email": "user4@email.com",
+    "isClient": true,
+    "sent": "2025-04-23 10:00:00"
+  }
+]
